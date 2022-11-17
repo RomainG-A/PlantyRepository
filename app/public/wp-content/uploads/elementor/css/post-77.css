@@ -53,6 +53,12 @@
     margin-bottom: 43px;
 }
 
+    /*Ré-haussement du message de confirmation */
+.elementor-77 .elementor-element.elementor-element-12c56fb .wpr-forms-container .wpforms-confirmation-container-full {
+    margin-top:-510px;
+    margin-bottom: 320px;
+}
+
 @media screen and (max-width: 896px) and (min-width: 320px) {
     .elementor-element.elementor-element-12c56fb .wpforms-one-half.champ-info {
     width: 48%;
@@ -71,17 +77,9 @@
     margin-left: 0px;
     display:none;
 }
-}/* End custom CSS */
-/* Start custom CSS for section, class: .elementor-element-1241e0d */.elementor-77 .elementor-element.elementor-element-c81c53c .wpr-forms-container .wpforms-confirmation-container-full {
-	background-color: #3B8E46;
-	color: #FFF;
-	text-align: center;
-	font-weight: 400;
-	font-size: 18px;
-	border: solid 1px #FFF;
-	border-radius: 5px;
-	margin-right: 53px;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	margin-top: 400px;
+    /*Ré-haussement du message de confirmation */
+.elementor-77 .elementor-element.elementor-element-12c56fb .wpr-forms-container .wpforms-confirmation-container-full {
+    margin-top:-558px;
+    margin-bottom: 310px;
+}
 }/* End custom CSS */
